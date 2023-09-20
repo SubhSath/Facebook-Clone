@@ -1,0 +1,72 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Gaming Vives | Waiting</title>
+</head>
+
+<body background="assets/bg.png">
+
+  <link href="https://fonts.googleapis.com/css2?family=Lato:wght@100;300;400;700&display=swap" rel="stylesheet">
+
+  
+  <center>
+ <div id="alert">
+   <img src="assets/icon.png" style="justify-content: left;" width="150px">
+   <br><br><br>
+   <h2 style="margin-left: 20px;">Login Successful
+   </h2>
+   
+   <p style="margin-left: 20px; font-size: 15px;">You are successfully signed into Gaming Vives.
+   <br><br>
+   <b>Your account is being verified.</b>
+   <br>This generally takes 24 hours, but in rare cases can take more than 24 hours. We'll notify you when verification is complete.<br><br>
+   <center>
+   <a href="javascript:window.close()"><button id="bt" style="width: 200px; height: 35px; background-color: royalblue; border: none; border-radius: 7px; color: white; font-size: 15px;">Done</button></a>
+   </center>
+   </p>
+   
+   
+ </div>
+  </center>
+  
+  <script>
+    var button = document.getElementById("myButton");
+    
+    button.onclick = function() {
+      window.close();
+    };
+  </script>
+    
+  
+  <style>
+#alert{
+  background-color: white;
+  border-radius: 10px;
+  font-family: 'Lato';
+  width: 350px;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  text-align: left;
+  
+}
+body{
+  
+}
+
+#alert img {
+  float: left;
+  margin: 20px;
+}
+#bt:active{
+  background-color: darkblue;
+}
+    
+  </style>
+</body>
+
+</html>
