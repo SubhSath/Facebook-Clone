@@ -1,0 +1,39 @@
+.faceBtn-container {
+    display: flex;
+    justify-content: center;
+  }
+  a {
+    text-decoration: none;
+  }
+  .faceBtn {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: #3e68b2;
+    color: white;
+    border-radius: 7px;
+    cursor: pointer;
+    height: 40px;
+    width: fit-content;
+    border: none;
+    font-family: Arial, Helvetica, sans-serif;
+  }
+  .faceBtn:hover {
+    background-color: #365ea3;
+  }
+
+  .faceBtn span {
+    margin: 10px;
+
+  }
+
+  .faceBtn img {
+    margin-left: 7px;
+  }
+  .icon {
+    width: 31px;
+    height: 31px;
+    border-left: 30px #3e68b2;
+    margin-top: 1px;
+    border-radius: 5px;
+  }
