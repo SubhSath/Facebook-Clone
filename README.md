@@ -37,5 +37,18 @@ This project provides a **Login with Facebook** feature, allowing users to authe
 
 
 
+[Visit OpenAI][openai]
+
+[openai]: https://openai.com
+[Link Text](https://example.com)
+
+
+<a href="https://x.com/Subham_Sathua" target="_blank" > 
+[Link Tdsdsdsext](https://example.com)
+
+sdskjdsdj</a>[Link Text](https://example.com)
+
+
+
 ---
 💡 *Feel free to contribute and improve this project!*
