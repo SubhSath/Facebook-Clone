@@ -18,34 +18,20 @@ This project provides a **Login with Facebook** feature, allowing users to authe
 - 📜 **Use at your own risk**.
 
 ## 🔗 Connect with Me
-
-<style>
-    .icon-text {
-        display: inline-flex;
-        align-items: center;
-        gap: 8px; /* Adds spacing between icon and text */
-        font-size: 16px; /* Adjust text size */
-    }
-    .icon-text img {
-        width: 24px;
-        height: 24px;
-    }
-</style>
-
-<a class="icon-text" target=_blank href="https://github.com/SubhamSathua">
-    <img src="assets/readme_files/github-circled.svg"> GitHub: @SubhamSathua
+<a href="https://github.com/SubhamSathua" target="_blank" style="display: inline-flex; align-items: center; gap: 8px; font-size: 16px; text-decoration: none; color: inherit;">
+    <img src="assets/readme_files/github-circled.svg" style="width: 24px; height: 24px;"> GitHub: @SubhamSathua
 </a>  
 <br>
-<a class="icon-text" target=_blank href="https://in.linkedin.com/in/subhamsathua">
-    <img src="assets/readme_files/linkedin-circled.svg"> LinkedIn: @subhamsathua
+<a href="https://in.linkedin.com/in/subhamsathua" target="_blank" style="display: inline-flex; align-items: center; gap: 8px; font-size: 16px; text-decoration: none; color: inherit;">
+    <img src="assets/readme_files/linkedin-circled.svg" style="width: 24px; height: 24px;"> LinkedIn: @subhamsathua
 </a>  
 <br>
-<a class="icon-text" target=_blank href="mailto:subhamksathua@gmail.com">
-    <img src="assets/readme_files/gmail.svg"> Email
+<a href="mailto:subhamksathua@gmail.com" target="_blank" style="display: inline-flex; align-items: center; gap: 8px; font-size: 16px; text-decoration: none; color: inherit;">
+    <img src="assets/readme_files/gmail.svg" style="width: 24px; height: 24px;"> Email
 </a>  
 <br>
-<a class="icon-text" target=_blank href="https://x.com/Subham_Sathua">
-    <img src="assets/readme_files/twitter-x.svg"> Twitter: @Subham_Sathua
+<a href="https://x.com/Subham_Sathua" target="_blank" style="display: inline-flex; align-items: center; gap: 8px; font-size: 16px; text-decoration: none; color: inherit;">
+    <img src="assets/readme_files/twitter-x.svg" style="width: 24px; height: 24px;"> Twitter: @Subham_Sathua
 </a>
 
 
