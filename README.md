@@ -39,3 +39,9 @@ This project provides a **Login with Facebook** feature, allowing users to authe
 
 ---
 💡 *Feel free to contribute and improve this project!*
+
+
+
+<br><br><br>
+Icons by <a target="_blank" href="https://icons8.com">Icons8</a>
+
