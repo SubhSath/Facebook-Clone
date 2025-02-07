@@ -48,6 +48,15 @@ This project provides a **Login with Facebook** feature, allowing users to authe
 
 sdskjdsdj</a>[Link Text](https://example.com)
 
+[![Alt Text](https://via.placeholder.com/100)](https://example.com)
+
+
+<a href="https://x.com/Subham_Sathua" target="_blank" style="text-decoration: none;">
+    <img src="assets/readme_files/twitter-x.svg" style="width: 24px; height: 24px;"> Twitter: @Subham_Sathua
+</a>
+
+
+
 
 
 ---
